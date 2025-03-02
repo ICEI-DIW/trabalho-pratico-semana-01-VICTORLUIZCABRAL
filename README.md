@@ -3,11 +3,24 @@
 # Trabalho Prático - Semana-01
 
 ## Informações Gerais
-Nome: 
-Matricula: 
+Nome: Victor Luiz dos Santos Cabral
+Matricula: 886164
 
 ## Tela de inspeção com navegador
 
 
 ## Tela de projeto no Replit
 
+## Informações do Aluno
+- Nome:  
+- Matrícula: XXXXXXXXX  
+
+## Prints das Atividades
+1. Print da inspeção do navegador  
+ ![alt text](../../../Documentos/GitHub/trabalho-pratico-semana-01-VICTORLUIZCABRAL/tarefa1.2.jpg)
+
+
+2. Print do código no Replit  
+![alt text](../../../Documentos/GitHub/trabalho-pratico-semana-01-VICTORLUIZCABRAL/tarefa1.3.jpg)
+
+[def]: print_navegador.png
